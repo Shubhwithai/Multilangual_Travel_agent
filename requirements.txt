@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+agno
+langchain-openai
+google-search-results
+serpapi
+langchain
+langchain-community
